@@ -1,0 +1,16 @@
+#add .km-button {
+    display: block;
+    text-align: center;
+    margin: 0.4em auto 0.6em auto;
+    width: 90%;
+    font-size: 1em;
+}
+.km-flat .add-button {
+    background: green;
+    color: white;
+}
+#login a {
+    display: block;
+    text-align: center;
+    margin: 1.5em;
+}
